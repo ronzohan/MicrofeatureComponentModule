@@ -2,7 +2,10 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Dependencies/CoreFeature/CoreFeature.xcodeproj">
+      location = "group:Example/Sample/Sample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Dependencies/MicrofeatureCoreModule/CoreFeature.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:ComponentFeature.xcodeproj">

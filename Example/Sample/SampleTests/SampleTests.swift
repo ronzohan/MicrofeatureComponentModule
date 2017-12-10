@@ -1,15 +1,15 @@
 //
-//  CoreFeatureTests.swift
-//  CoreFeatureTests
+//  SampleTests.swift
+//  SampleTests
 //
 //  Created by Ron Daryl Magno on 12/11/17.
 //  Copyright © 2017 Ron Daryl Magno. All rights reserved.
 //
 
 import XCTest
-@testable import CoreFeature
+@testable import Sample
 
-class CoreFeatureTests: XCTestCase {
+class SampleTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
