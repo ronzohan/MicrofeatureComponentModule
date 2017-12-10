@@ -15,5 +15,6 @@ public struct Sample {
     public init(name: String) {
         self.name = name
         debugPrint("fuck you")
+        debugPrint("fuck you 2")
     }
 }
